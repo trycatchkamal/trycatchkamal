@@ -2,17 +2,20 @@
 <div align="center">
 
 ```
- _______  ____  _  ___  _   __   ____      _    _
-|__   __|  _ \\ \/ / | | | /  / / __ \    | |  | |
-   | |  | |_) |>  <  | |_| |/ /  | |/ /   | |/\\| |
-   | |  |  _ < / . \\ |  _  |  \\  | |\\ \\   |  /\\  |
-   |_|  |_| \\_\\_/ \\_\\|_| |_|\_  \\ \\__/ |  |_/  \\_|
-             "try { code } catch (kamal)"
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   try {                                              ║
+║       you.succeed();          // the whole point     ║
+║   } catch (anything) {                               ║
+║       kamal.figures_it_out(); // that's the job      ║
+║   }                                                  ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
 
-### `while(!succeed) { try(); }` — that's literally the strategy.
+### `while (!clientSucceeds) { kamal.tries_harder(); }` -  that's literally the job.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=2x+Failed+AI+SaaS+Maker+%F0%9F%94%A5;15%2B+Years+of+Unlearning+%26+Relearning;Published+Author+%7C+Speaker+%7C+Open+Source+Nerd)](https://trycatchkamal.github.io/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Tech+Agile+Coach+%7C+AI+Consultant;2x+Failed+AI+SaaS+Maker+%F0%9F%94%A5;15%2B+Years+of+Unlearning+%26+Relearning;Published+Author+%7C+Speaker+%7C+Open+Source+Nerd)](https://trycatchkamal.github.io/)
 
 </div>
 
@@ -46,6 +49,7 @@ const kamal = {
 
   currentlyDoing: [
     "Coaching startups & Fortune 500s on Technical Agility",
+    "AI Consulting - helping orgs actually integrate AI into engineering",
     "Running custom AI workshops that actually stick",
     "Contributing to Google Gemini CLI & GitHub Copilot ecosystem",
     "Writing whitepapers nobody asked for (but everyone needs)",
@@ -90,9 +94,6 @@ I've left commits in places you didn't expect:
 
 ![GenAI](https://img.shields.io/badge/GenAI_&_AI_Agents-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD_&_BDD-4CAF50?style=for-the-badge&logo=pytest&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD_DevOps-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Agile](https://img.shields.io/badge/XP_&_Agile_Coaching-FFC107?style=for-the-badge&logo=jira&logoColor=black)
 

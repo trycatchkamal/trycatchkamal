@@ -65,10 +65,11 @@ const kamal = {
 
 | 📦 | Name | What it does |
 |---|------|-------------|
-| 📚 | **Test-First Copilot** *(Book)* | TDD + AI for .NET & React — the future of coding |
+| 🔥 | **Gauzer** *(OSS)* |	The observability-first validation library for Go. Zero-alloc, vendor-agnostic telemetry |
+| 📚 | **Test-First Copilot** *(Book)* | TDD + AI for .NET & React - the future of coding |
 | 📚 | **TDD for C# and .Net Core** *(Book)* | The red-green-refactor bible |
 | 📚 | **TDD for Angular** *(Book)* | Because frontend deserves tests too |
-| 🤖 | **FaceQuest** | Facial recognition platform — search faces, verify identities |
+| 🤖 | **FaceQuest** | Facial recognition platform - search faces, verify identities |
 | 💼 | **Notesally** | AI-powered sales productivity & CRM quality assistant |
 
 > *2 failed SaaS products taught me more than 2 successful ones ever could.*
@@ -77,14 +78,14 @@ const kamal = {
 
 ## `// open source fingerprints`
 
-I've left commits in places you didn't expect:
-
-- 🔍 **Google Gemini CLI** — yes, that one
-- 🤖 **GitHub Awesome Copilot** — curating the AI-assisted future
-- 🏢 **Microsoft GHCP** — enterprise AI tooling
-- ⚡ **Akka HTTP** — distributed systems level stuff
-- ☁️ **Azure Notification Hubs** — cloud infra contributions
-- 🗂️ **Kanbanstr** & **Zapddit** — because why not
+I've left commits in below:
+- 🔥 **Gauzer** - The observability-first validation library for Go. 61ns, 0-alloc, native slog/OTel, and PII masking.
+- 🔍 **Google Gemini CLI** - yes, that one
+- 🤖 **GitHub Awesome Copilot** - curating the AI-assisted future
+- 🏢 **Microsoft GHCP** - enterprise AI tooling
+- ⚡ **Akka HTTP** - distributed systems level stuff
+- ☁️ **Azure Notification Hubs** - cloud infra contributions
+- 🗂️ **Kanbanstr** & **Zapddit** - open-source infra
 
 ---
 
@@ -92,8 +93,9 @@ I've left commits in places you didn't expect:
 
 <div align="center">
 
-![GenAI](https://img.shields.io/badge/GenAI_&_AI_Agents-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
-![TDD](https://img.shields.io/badge/TDD_&_BDD-4CAF50?style=for-the-badge&logo=pytest&logoColor=white)
+![GenAI & AI Agents](https://img.shields.io/badge/GenAI_&_AI_Agents-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
+![Systems Thinking](https://img.shields.io/badge/Systems_Thinking-0000AA?style=for-the-badge&logo=openai&logoColor=white)
+![TDD & BDD](https://img.shields.io/badge/TDD_&_BDD-4CAF50?style=for-the-badge&logo=pytest&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD_DevOps-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Agile](https://img.shields.io/badge/XP_&_Agile_Coaching-FFC107?style=for-the-badge&logo=jira&logoColor=black)
 
@@ -146,6 +148,6 @@ the conference talks, the whole origin story —
 
 ---
 
-`// EOF — go click that link`
+`// EOF - go click that link`
 
 </div>

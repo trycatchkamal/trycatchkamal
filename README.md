@@ -15,7 +15,7 @@
 
 ### `while (!clientSucceeds) { kamal.tries_harder(); }` -  that's literally the job.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Tech+Agile+Coach+%7C+AI+Consultant;2x+Failed+AI+SaaS+Maker+%F0%9F%94%A5;15%2B+Years+of+Unlearning+%26+Relearning;Published+Author+%7C+Speaker+%7C+Open+Source+Nerd)](https://trycatchkamal.github.io/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=AI+Consultant+%7C+Tech+Coach;2x+Failed+AI+SaaS+Maker+%F0%9F%94%A5;15%2B+Years+of+Unlearning+%26+Relearning;Published+Author+%7C+Speaker+%7C+Open+Source+Nerd)](https://trycatchkamal.github.io/)
 
 </div>
 
@@ -41,7 +41,7 @@
 ```js
 const kamal = {
   name:       "Kamal Raj Sekar",
-  title:      "Tech Agile Coach & AI Consultant",
+  title:      "Tech Coach & AI Consultant",
   company:    "Ampyard (Cofounder & Director)",
   location:   "India 🇮🇳",
   experience: "15+ years of building, breaking, and fixing things",
@@ -106,7 +106,7 @@ I've left commits in below:
 ## `// I've talked at`
 
 🎤 **Agile Mumbai 2025** | 🏢 **Infosys Gearbox** | 🌐 **Technical Agility Conference 2020**
-and a few rooms where people pretended to understand AI agents
+and other prominent conferences 
 
 ---
 

@@ -44,7 +44,7 @@ const kamal = {
   title:      "Tech Coach & AI Consultant",
   company:    "Ampyard (Cofounder & Director)",
   location:   "India 🇮🇳",
-  experience: "15+ years of building, breaking, and fixing things",
+  experience: "17+ years of building, breaking, and fixing things",
   superpower: "Turning AI confusion into AI confidence",
 
   currentlyDoing: [
